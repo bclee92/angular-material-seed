@@ -1,5 +1,5 @@
-# ${1:Project Name}
-Angular Material Design Seed
+# Angular Material Design Seed
+An AngularJS seed based on Angular Material Design
 
 ## Installation
 1. Clone the project
@@ -18,6 +18,9 @@ This is an AngularJS seed based on Angular Material Design. This project would s
 5. Submit a pull request
 
 ## History
+
+## Notes
+Meantime, the testing scripts would not be working. Test scripts will be added as soon as possible. 
 
 
 ## Credits
