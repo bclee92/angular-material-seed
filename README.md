@@ -1,5 +1,5 @@
-# Angular Material Design Seed
-An AngularJS seed based on Angular Material Design
+# Angular Material Design Seed + RequireJS + Grunt
+An AngularJS seed based on Angular Material Design, RequireJS and Grunt
 
 ## Installation
 1. Clone the project
