@@ -5,8 +5,8 @@
     	], function () {
     		var homeModule = angular.module('home', ['ngMaterial']);
     		homeModule.controller('HomeCtrl', function(){
-    			this.title = 'Home Page';
-                this.message = 'This is Home page';
+                var self = this;
+    			self.title = 'Home Page';
     		}
     	)
     });
