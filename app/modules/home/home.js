@@ -1,7 +1,13 @@
-define([
-	'app'
-	], function (app) {
-    app.controller('HomeController', function ($scope) {
-        $scope.message = "Message from HomeCtrl"; 
+(function() {
+    'use strict';
+    define([
+    	'angular-material'
+    	], function () {
+    		var homeModule = angular.module('home', ['ngMaterial']);
+    		homeModule.controller('HomeCtrl', function(){
+    			this.title = 'Home Page';
+                this.message = 'This is Home page';
+    		}
+    	)
     });
-});
+})();
