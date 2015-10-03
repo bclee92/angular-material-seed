@@ -29,6 +29,9 @@ require.config({
         },
         'home': {
             deps: ['angular-material']
+        },
+        'about': {
+            deps: ['angular-material']
         }
     },
     deps: ['app']
